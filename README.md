@@ -1,2 +1,1 @@
-# ttturab.github.io
-Ömer Turab Memiş - Personal Portfolio
+I am a Computer Science student at Bilkent University, driven by a passion for solving real-world problems through technology. My journey in software development is uniquely intertwined with my background in agriculture; I manage a livestock farm in Ankara, which inspired me to develop 'MyFarmTSM'—a smart management solution to digitize traditional farming. Currently, I am deeply focused on Android development and creating efficient, user-centric applications. I love bridging the gap between complex engineering concepts and practical, everyday solutions.
